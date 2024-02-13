@@ -1,7 +1,7 @@
 # MIPS Assembly Calculator
-Designed a one-line input calculator in MIPS Assembly. The program parses the input and makes calculations as it goes.
+Developed a MIPS Assembly calculator that operates with a single-line input, parsing expressions on the fly to perform calculations (does not adhere to the PEMDAS convention).
 
-# Test Runs
+# Examples
 ![test_run_1](https://user-images.githubusercontent.com/54639928/208369787-b2cf46ee-3558-448a-a1cf-f12d64b230ad.png) <br>
 ![test_run_2](https://user-images.githubusercontent.com/54639928/208370015-26853539-1e77-4bbd-9b0d-362741eb6642.png) <br>
 ![test_run_3](https://user-images.githubusercontent.com/54639928/208370192-d1d37551-dcf6-4ccb-9d49-95d725343710.png) <br>
